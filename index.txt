@@ -1,0 +1,2 @@
+hey, it's me, Adharsh Reghu. 
+This is the index.txt file created for the git and GitHub tutorial.
